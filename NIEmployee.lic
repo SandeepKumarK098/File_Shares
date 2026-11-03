@@ -8,23 +8,13 @@ INCREMENT VLM_Core nilm 3.0000 permanent uncounted \
 	vendor_info="TYPE=Application LABEL=Volume License Manager \
 	URL=http://www.ni.com/support/licensing/vlmfaq.htm" TS_OK \
 	SIGN=B2FE1AB86E8A
-PACKAGE LabVIEW_FDS_PKG_MC nilm 27.0100 COMPONENTS=" \
-	NIDAQ_DAQAssistant:7.0000 SignalExpress_Analysis:15.0000 \
-	LVNXG_BASE:5.0100 LVNXG_EAcc:5.0000 LVNXG_FULL:5.0100 \
-	LabVIEW_AdvCtrlVIs:27.0100 LabVIEW_Base:27.0100 \
-	LabVIEW_Core:27.0100 LabVIEW_FDS:27.0100 LabVIEW_Full:27.0100 \
-	LabVIEW_FuzzyCtrl:27.0100 LabVIEW_InternetTKCommon:11.0000 \
-	LabVIEW_InternetTKCore:11.0000 LabVIEW_InternetTKFTP:11.0000 \
-	LabVIEW_LabVIEW:7.0100 LabVIEW_Math:8.0601 LabVIEW_NXG:1.0000 \
-	LabVIEW_PID:27.0100 LabVIEW_PIDForFPGA:13.0000 \
-	LabVIEW_Statechart:18.0000 SignalExpress_Full:15.0000 \
-	SignalExpress_Hardware:15.0000 SignalExpress_Lite:15.0000" \
-	OPTIONS=SUITE SIGN=F357E5460864
-INCREMENT LabVIEW_FDS_PKG_MC nilm 27.0100 permanent 5 \
+PACKAGE Multisim_Edu_PKG_MC nilm 14.0300 \
+	COMPONENTS="Multisim_Core:14.0300 Multisim_Edu:14.0300" \
+	OPTIONS=SUITE SIGN=70E2E5BA9D9C
+INCREMENT Multisim_Edu_PKG_MC nilm 14.0300 permanent 3 \
 	VENDOR_STRING="NO_HL CONTRACT_ID=NIEmployee \
 	CONTRACT_END=03-Nov-2027 CONTRACT_COMPANY=National Instruments \
 	CONCURRENT" HOSTID=ANY sort=2 HOST_BASED=99999 DUP_GROUP=UH \
-	vendor_info="PKGS= SN= VERSION_STRING=2027 Q1 \
-	FAMILY=LabVIEW_ADE_270100 TYPE=Application LABEL=Full \
-	Development System URL=http://www.ni.com" TS_OK \
-	SIGN=8232EE068930
+	vendor_info="PKGS= SN= FAMILY=Multisim_Family_140300 \
+	TYPE=Application LABEL=Education Edition \
+	URL=http://www.ni.com" TS_OK SIGN=004501E2D506
