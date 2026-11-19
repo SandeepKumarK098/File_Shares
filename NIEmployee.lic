@@ -24,7 +24,7 @@ PACKAGE DIAdem_ADV_PKG_MC nilm 26.0000 \
 	DIAdem_Spline_Calculation:26.0000 DIAdem_VIEW:26.0000 \
 	DIAdem_Video_Sync:26.0000 NIDAQ_DAQAssistant:7.0000" \
 	OPTIONS=SUITE SIGN=DFE5555636D8
-INCREMENT DIAdem_ADV_PKG_MC nilm 26.0000 permanent 2 \
+INCREMENT DIAdem_ADV_PKG_MC nilm 26.0000 permanent 4 \
 	VENDOR_STRING="NO_HL CONTRACT_ID=NIEmployee \
 	CONTRACT_END=19-Nov-2027 CONTRACT_COMPANY=National Instruments \
 	CONCURRENT" HOSTID=ANY sort=2 HOST_BASED=99999 DUP_GROUP=UH \
@@ -32,4 +32,4 @@ INCREMENT DIAdem_ADV_PKG_MC nilm 26.0000 permanent 2 \
 	FAMILY=DIAdem_DIA_260000 TYPE=Application LABEL=Advanced \
 	Edition \
 	URL=http://www.ni.com/cgi-bin/redirect.cgi?dest=infcoprod&amp;src=nilmfile&amp;openagent&amp;code=rdadem" \
-	TS_OK SIGN=D7C12A1A4276
+	TS_OK SIGN=927DC12822E8
