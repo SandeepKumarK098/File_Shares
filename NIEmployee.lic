@@ -1,20 +1,35 @@
 SERVER VM-CustEsc-24H2 DISK_SERIAL_NUM=2EA7EAD1 27000
 VENDOR nilm
 INCREMENT VLM_Core nilm 3.0000 permanent uncounted \
-	VENDOR_STRING="SEND_DATE=03-Aug-2027,03-May-2027,03-Feb-2027 \
-	CONTRACT_ID=NIEmployee CONTRACT_END=03-Nov-2027 \
+	VENDOR_STRING="SEND_DATE=19-Aug-2027,19-May-2027,19-Feb-2027 \
+	CONTRACT_ID=NIEmployee CONTRACT_END=19-Nov-2027 \
 	CONTRACT_COMPANY=National Instruments" \
 	HOSTID=DISK_SERIAL_NUM=2ea7ead1 sort=first \
 	vendor_info="TYPE=Application LABEL=Volume License Manager \
 	URL=http://www.ni.com/support/licensing/vlmfaq.htm" TS_OK \
-	SIGN=B2FE1AB86E8A
-PACKAGE Multisim_Edu_PKG_MC nilm 14.0300 \
-	COMPONENTS="Multisim_Core:14.0300 Multisim_Edu:14.0300" \
-	OPTIONS=SUITE SIGN=70E2E5BA9D9C
-INCREMENT Multisim_Edu_PKG_MC nilm 14.0300 permanent 3 \
+	SIGN=3EAC2A041F18
+PACKAGE DIAdem_ADV_PKG_MC nilm 26.0000 \
+	COMPONENTS="DIADEM_SHELL:26.0000 DIAdem_3D-6D_Graphics:26.0000 \
+	DIAdem_3D_Analysis:26.0000 DIAdem_ANALYSIS:26.0000 \
+	DIAdem_ASAM-ODS:26.0000 DIAdem_Approximation:26.0000 \
+	DIAdem_Circle_Approx_Exec:26.0000 \
+	DIAdem_Classification_Exec:26.0000 \
+	DIAdem_Crash_Analysis_Exec:26.0000 \
+	DIAdem_Digital_Filtering:26.0000 DIAdem_FFT_Base:26.0000 \
+	DIAdem_FFT_Extended:26.0000 \
+	DIAdem_Frequ_Weighted_Acc_Exec:26.0000 \
+	DIAdem_NAVIGATOR:26.0000 DIAdem_ODBC-SQL:26.0000 \
+	DIAdem_Order_Analysis_Exec:26.0000 DIAdem_REPORT:26.0000 \
+	DIAdem_Rainflow_Analysis_Exec:26.0000 DIAdem_SCRIPT:26.0000 \
+	DIAdem_Spline_Calculation:26.0000 DIAdem_VIEW:26.0000 \
+	DIAdem_Video_Sync:26.0000 NIDAQ_DAQAssistant:7.0000" \
+	OPTIONS=SUITE SIGN=DFE5555636D8
+INCREMENT DIAdem_ADV_PKG_MC nilm 26.0000 permanent 2 \
 	VENDOR_STRING="NO_HL CONTRACT_ID=NIEmployee \
-	CONTRACT_END=03-Nov-2027 CONTRACT_COMPANY=National Instruments \
+	CONTRACT_END=19-Nov-2027 CONTRACT_COMPANY=National Instruments \
 	CONCURRENT" HOSTID=ANY sort=2 HOST_BASED=99999 DUP_GROUP=UH \
-	vendor_info="PKGS= SN= FAMILY=Multisim_Family_140300 \
-	TYPE=Application LABEL=Education Edition \
-	URL=http://www.ni.com" TS_OK SIGN=004501E2D506
+	vendor_info="PKGS= SN= VERSION_STRING=2026 VISIBLETO64 \
+	FAMILY=DIAdem_DIA_260000 TYPE=Application LABEL=Advanced \
+	Edition \
+	URL=http://www.ni.com/cgi-bin/redirect.cgi?dest=infcoprod&amp;src=nilmfile&amp;openagent&amp;code=rdadem" \
+	TS_OK SIGN=D7C12A1A4276
