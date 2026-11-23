@@ -1,0 +1,21 @@
+03/11/2026 08:23:02	Exception	DIAdem	17144	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/11/2026 08:23:12	Assert	DIAdem	17144	1		General	NI License Manager Wizard	2Could not load AdminInfo for de0-eulm-p06:27000
+03/11/2026 08:44:36	Assert	NIUpdateService	18500	1		General	DefaultDomain	1An exception was thrown while getting the Update Service preference from servers. Details: de0-eulm-p06:27000
+03/11/2026 08:56:56	Exception	DIAdem	3852	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/11/2026 08:57:04	Assert	DIAdem	3852	1		General	NI License Manager Wizard	2Could not load AdminInfo for de0-eulm-p06:27000
+03/11/2026 16:01:34	Exception	DIAdem	16516	10		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/12/2026 08:53:24	Exception	DIAdem	25552	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/12/2026 08:57:36	Exception	DIAdem	25788	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/12/2026 09:01:13	Exception	DIAdem	25332	7		General	NI License Manager Wizard	2Failure using ping to check internet connection. Details: PingException: An exception occurred during a Ping request.
+03/12/2026 09:01:13	Exception	DIAdem	25332	7		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The remote name could not be resolved: 'www.ni.com'
+03/12/2026 09:01:56	Exception	DIAdem	2448	7		General	NI License Manager Wizard	2Failure using ping to check internet connection. Details: PingException: An exception occurred during a Ping request.
+03/12/2026 09:01:56	Exception	DIAdem	2448	7		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The remote name could not be resolved: 'www.ni.com'
+03/13/2026 08:26:25	Exception	DIAdem	19856	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/13/2026 13:39:13	Exception	DIAdem	9220	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/13/2026 13:39:21	Exception	DIAdem	9220	10		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+03/13/2026 13:39:29	Assert	DIAdem	9220	1		General	NI License Manager Wizard	2Could not load AdminInfo for de0-eulm-p06:27000
+06/26/2026 08:38:18	Assert	NIUpdateService	10128	1		General	DefaultDomain	1An exception was thrown while getting the Update Service preference from servers. Details: de0-eulm-p06:27000
+06/26/2026 08:39:59	Assert	Install	27576	1		General	NI License Manager Wizard	2Could not load AdminInfo for de0-eulm-p06:27000
+06/26/2026 08:43:16	Assert	NIUpdateService	18988	1		General	DefaultDomain	1An exception was thrown while getting the Update Service preference from servers. Details: de0-eulm-p06:27000
+06/26/2026 09:08:25	Exception	DIAdem	17984	9		General	NI License Manager Wizard	2Failure using web request to check internet connection. Details: WebException: The request was aborted: Could not create SSL/TLS secure channel.
+06/26/2026 09:08:33	Assert	DIAdem	17984	1		General	NI License Manager Wizard	2Could not load AdminInfo for de0-eulm-p06:27000
